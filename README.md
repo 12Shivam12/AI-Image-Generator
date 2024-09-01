@@ -12,3 +12,5 @@ The DALL·E Image Generator is a web application that allows users to generate A
 https://ai-image-generator-dalle-shivam.netlify.app/
 
 ## Video
+https://github.com/user-attachments/assets/fda6b14f-40a0-4294-a97c-9264f5f79d5e
+
