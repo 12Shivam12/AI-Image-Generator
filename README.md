@@ -14,3 +14,9 @@ https://ai-image-generator-dalle-shivam.netlify.app/
 ## Video
 https://github.com/user-attachments/assets/fda6b14f-40a0-4294-a97c-9264f5f79d5e
 
+## Technologies Used
+* React.js: For building the user interface.
+* DALL·E API: For generating AI images.
+* Tailwind CSS: For styling the application.
+* Node.js: Backend support.
+* Express: Server-side framework.
